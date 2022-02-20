@@ -2,9 +2,6 @@
 - 🔭 I’m currently working on [Blocklist-for-Pihole] (https://github.com/Tkllr/Blocklist-for-Pihole)
 
 - 🌱 I’m currently learning **Android app development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
