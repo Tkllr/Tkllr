@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-- 🔭 I’m currently working on [Blocklist-for-Pihole](https://github.com/Tkllr/Blocklist-for-Pihole)
+- 🔭 I’m currently working on [Blocklist-for-Pihole] (https://github.com/Tkllr/Blocklist-for-Pihole)
 
 - 🌱 I’m currently learning **Android app development**
 
